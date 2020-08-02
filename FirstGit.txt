@@ -1,0 +1,13 @@
+FirtGit project 
+
+
+1.open chrome 
+2.navigate techtorialacademy.com
+3. login
+4.Set reminder
+5.Logout
+
+Please finish this task before  08/01/2020 
+
+Should you have any question, please reach out @mesut   
+
